@@ -5,7 +5,9 @@
    ========================================================================== */
 
 
-
+.navbar-inverse {
+background-image: linear-gradient(to bottom,#3c3c3c 0,#8A1A87 100%);
+}
 
 
 
